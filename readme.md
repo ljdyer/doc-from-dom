@@ -2,7 +2,7 @@
 
 dom2doc is a browser extension for Google Chrome and Mozilla Firefox that lets you download text from the DOM elements that you specify as a Word file.
 
-It was developed for use as a productivity tool for a team whose daily work involves extracting text from specific parts of pages on certain browser-based systems.
+It was developed for use as a productivity tool for a team of translators whose daily work includes extracting text from specific parts of pages on certain browser-based systems.
 
 ## How to use
 
