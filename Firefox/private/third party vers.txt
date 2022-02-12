@@ -1,0 +1,3 @@
+https://unpkg.com/docx@6.0.0/build/index.js
+https://github.com/eligrey/FileSaver.js/blob/2.0.4/src/FileSaver.js
+https://code.jquery.com/jquery-3.6.0.min.js
